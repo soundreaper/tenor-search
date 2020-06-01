@@ -1,0 +1,1 @@
+Basic Node project to display GIF images from Tenor with the ability to search.
